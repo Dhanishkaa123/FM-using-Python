@@ -28,15 +28,27 @@ Algorithm
 
 Program
 
+<img width="910" height="817" alt="image" src="https://github.com/user-attachments/assets/214d4fbc-e15c-43ab-aad3-78400af7340d" />
+
+
 
 Output Waveform
 
 
+<img width="1915" height="1015" alt="image" src="https://github.com/user-attachments/assets/38f76552-ebf6-4aa4-9a6c-f30e7e4a63cc" />
+
+
+
 Tabular Column
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d6676e00-6b70-419d-8814-163e5ded0657" />
 
 
 
 Calculation
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2a87696-819d-4649-b5a7-22ccb1df425a" />
+
 
 
 
