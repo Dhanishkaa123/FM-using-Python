@@ -28,8 +28,47 @@ Algorithm
 
 Program
 
+import numpy as np
+
+import matplotlib.pyplot as plt
+
+Am = 2.9
+
+Ac = 5.8
+
+Fm = 259
+
+Fc = 2590
+
+Fs = 25900
+
+b = 2.3
+
+t=np.arange(0,2/Fm,1/Fs)
+
+m=Am*np.cos(2*np.pi*Fm*t)
+
+plt.subplot(3,1,1)
+
+plt.plot(t,m)
+
+c=Ac * np .cos(2* np.pi* Fc* t)
+
+plt.subplot(3,1,2)
+
+plt.plot(t,c)
+
+s=Ac* np .cos(2 * np.pi * Fc * t+b * np.sin(2 * np.pi* Fm* t))
+
+plt.subplot(3,1,3)
+
+plt.plot(t,s)
+
 
 Output Waveform
+
+<img width="575" height="413" alt="image" src="https://github.com/user-attachments/assets/64fccd58-a595-4d97-a049-a9dea5a976b3" />
+
 
 
 Tabular Column
